@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
