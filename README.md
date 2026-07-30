@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/name-Sai-kaushik999/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
